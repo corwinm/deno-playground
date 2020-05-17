@@ -9,6 +9,7 @@
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal",
       "runtimeExecutable": "deno",
       "runtimeArgs": [
         "run",
@@ -22,6 +23,7 @@
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal",
       "runtimeExecutable": "deno",
       "runtimeArgs": [
         "run",
@@ -36,6 +38,7 @@
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}/src",
+      "console": "integratedTerminal",
       "runtimeExecutable": "deno",
       "runtimeArgs": [
         "test",
